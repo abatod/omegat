@@ -1,0 +1,14 @@
+12/13/22 9:31 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    4037	45516	                     252705	                       293714	     1	
+Remaining:       	    4036	45514	                     252697	                       293706	     1	
+Unique:          	    3304	42649	                     237131	                       276060	     1	
+Unique Remaining:	    3303	42647	                     237123	                       276052	     1	
+
+
+Individual File Statistics:
+
+File Name                                       	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+2022-11-18_GMIT_Bidding Documents_Draft_Eng.docx	          4037	              4036	           3304	                     3303	      45516	          45514	       42649	                 42647	                           252705	                               252697	                            237131	                                      237123	                             293714	                                 293706	                              276060	                                        276052	
